@@ -51,4 +51,3 @@ Here are example results when trained and tested with default hyperparameters:
 | sentiment_Acc   | 0.847     | 0.788    | 0.648       | 0.806       | **0.772** |
 | aspect_Macro_F1 | 0.089     | 0.303    | 0.349       | 0.055       | **0.199** |
 
-Note: The averages are calculated based on the four MTN-related columns shown in this table. The actual model performance may vary when considering all target-aspect pairs.
