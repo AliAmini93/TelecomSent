@@ -1,4 +1,4 @@
-# TelecomSent: Targeted Sentiment Analysis for Telecoms in Uganda
+# TelecomSent: Targeted Sentiment Analysis for Telecoms
 
 
 ## Project Overview
