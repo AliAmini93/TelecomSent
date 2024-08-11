@@ -1,0 +1,6 @@
+aspect_strict_Acc:	0.39452780229479256
+aspect_Macro_F1:	0.32659151946368187
+aspect_Macro_AUC:	0.8697375794733514
+
+sentiment_Acc:	0.9670306593868123
+sentiment_Macro_AUC:	0.9115279392081035
