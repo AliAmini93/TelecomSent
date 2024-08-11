@@ -31,10 +31,11 @@ python convert_tf_checkpoint_to_pytorch.py \
   --tf_checkpoint_path uncased_L-12_H-768_A-12/bert_model.ckpt \
   --bert_config_file uncased_L-12_H-768_A-12/bert_config.json \
   --pytorch_dump_path uncased_L-12_H-768_A-12/pytorch_model.bin
-```bash
+```
 ## Step 3: Train the Model
 Train the BERT model on the TelecomSent dataset with the following command:
 CUDA_VISIBLE_DEVICES=0,1,2,3 python run_classifier_TABSA.py \
+```
   --task_name sentihood_NLI_M \
   --data_dir data/TelecomSent/bert-pair/ \
   --vocab_file uncased_L-12_H-768_A-12/vocab.txt \
@@ -48,6 +49,7 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 python run_classifier_TABSA.py \
   --num_train_epochs 6.0 \
   --output_dir results/TelecomSent/NLI_M \
   --seed 42
+```  
 ## Step 4: Evaluate the Model
 Evaluate the trained model's performance on the test set by calculating Accuracy, F1 score, and AUC using the following command:
 python evaluation.py --task_name TelecomSent_NLI_M --pred_data_dir results/TelecomSent/NLI_M/test_ep_4.txt
