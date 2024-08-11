@@ -1,5 +1,5 @@
-# TelecomSent
-# Targeted Sentiment Analysis for Telecoms in Uganda
+# TelecomSent: Targeted Sentiment Analysis for Telecoms in Uganda
+
 
 ## Project Overview
 This project focuses on extracting detailed and actionable insights from social media discussions about three major telecom operators: MTN. The analysis is based on data from two primary social media platforms: [Twitter](https://twitter.com/) and [Facebook](https://web.facebook.com/).
