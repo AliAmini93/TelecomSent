@@ -1,0 +1,8 @@
+Total Number of reviews in the Training JSON file:	,3968
+Total Number of reviews in the Testing JSON file:	,1121
+Total Number of reviews in the Development JSON file:	,571
+"
+
+Percentage of Training review of the total:	",70.0,%
+Percentage of Testing review of the total:	,20.0,%
+Percentage of Development review of the total:	,10.0,%
