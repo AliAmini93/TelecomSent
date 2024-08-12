@@ -420,7 +420,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "General",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1096605058983227392,
@@ -469,7 +469,7 @@
             {
                 "sentiment": "Positive",
                 "aspect": "General",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1097527090809896960,
@@ -513,7 +513,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "Network",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1097781326948773889,
@@ -568,7 +568,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1098086579770408961,
@@ -771,7 +771,7 @@
             {
                 "sentiment": "Positive",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1099606105733382144,
@@ -863,7 +863,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "Network",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1101309517680263169,
@@ -874,7 +874,7 @@
             {
                 "sentiment": "Positive",
                 "aspect": "General",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1101344422699196416,
@@ -885,7 +885,7 @@
             {
                 "sentiment": "Positive",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1101356127835619333,
@@ -896,7 +896,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1101366215421952000,
@@ -907,7 +907,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "General",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1101397646579769344,
@@ -929,7 +929,7 @@
             {
                 "sentiment": "Positive",
                 "aspect": "General",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1101860633023311872,
@@ -1071,7 +1071,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "CustomerService",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1103359574294319106,
@@ -1093,7 +1093,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1103400974650142732,
@@ -1104,7 +1104,7 @@
             {
                 "sentiment": "Positive",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1103695407920701441,
@@ -1115,7 +1115,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "CustomerService",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1103717090052263936,
@@ -1126,7 +1126,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "Network",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1103768171285278727,
@@ -1137,7 +1137,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1103882121368629248,
@@ -1148,7 +1148,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1103922921108471809,
@@ -1181,7 +1181,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "Network",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1104022015437086720,
@@ -1269,7 +1269,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1104468571776864256,
@@ -1313,7 +1313,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "MobileMoney",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1105088611136008193,
@@ -1324,7 +1324,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "CustomerService",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1105092896955555840,
@@ -1346,7 +1346,7 @@
             {
                 "sentiment": "Positive",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1105123302815735808,
@@ -1368,7 +1368,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "CustomerService",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1105195282176847879,
@@ -1417,7 +1417,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "General",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1105444417245204480,
@@ -1472,7 +1472,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "Network",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1105799914586550272,
@@ -1549,7 +1549,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "MobileMoney",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1106186752585289728,
@@ -1571,7 +1571,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "General",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1106425701509591040,
@@ -1582,7 +1582,7 @@
             {
                 "sentiment": "Positive",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             },
             {
                 "sentiment": "Negative",
@@ -1609,7 +1609,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1106500435886649344,
@@ -1653,12 +1653,12 @@
             {
                 "sentiment": "Positive",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             },
             {
                 "sentiment": "Positive",
                 "aspect": "Calls",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1106909453947990016,
@@ -1707,7 +1707,7 @@
             {
                 "sentiment": "Positive",
                 "aspect": "General",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1107682802412195840,
@@ -1773,7 +1773,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1108004414424604672,
@@ -1795,7 +1795,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "Network",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1108112334533345282,
@@ -1817,7 +1817,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1108289417368735745,
@@ -1861,7 +1861,7 @@
             {
                 "sentiment": "Positive",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1113350556628738048,
@@ -1894,7 +1894,7 @@
             {
                 "sentiment": "Positive",
                 "aspect": "General",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1113398982116556802,
@@ -1927,7 +1927,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "MobileMoney",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1113494749003046914,
@@ -1993,7 +1993,7 @@
             {
                 "sentiment": "Positive",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1114072200913530880,
@@ -2339,7 +2339,7 @@
             {
                 "sentiment": "Positive",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1120197469449666560,
@@ -2350,7 +2350,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1120232000982605825,
@@ -2383,7 +2383,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1120415584108318722,
@@ -2416,7 +2416,7 @@
             {
                 "sentiment": "Positive",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1121108857642717185,
@@ -2575,7 +2575,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1121796826888200193,
@@ -2586,7 +2586,7 @@
             {
                 "sentiment": "Positive",
                 "aspect": "General",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1121805448884170753,
@@ -2729,7 +2729,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "General",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1122208922809589760,
@@ -2850,7 +2850,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1122886497370349569,
@@ -2910,7 +2910,7 @@
             {
                 "sentiment": "Positive",
                 "aspect": "General",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1124905870213693441,
@@ -2976,17 +2976,17 @@
             {
                 "sentiment": "Positive",
                 "aspect": "CustomerService",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             },
             {
                 "sentiment": "Positive",
                 "aspect": "Calls",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             },
             {
                 "sentiment": "Positive",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1125437967168868352,
@@ -3030,7 +3030,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1125651566831255552,
@@ -3041,7 +3041,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1125678720990228481,
@@ -3200,7 +3200,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "CustomerService",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1126412472783650816,
@@ -3277,7 +3277,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1126809556938567680,
@@ -3288,7 +3288,7 @@
             {
                 "sentiment": "Positive",
                 "aspect": "General",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1126833736023183360,
@@ -3321,7 +3321,7 @@
             {
                 "sentiment": "Positive",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1126913744695640071,
@@ -3376,7 +3376,7 @@
             {
                 "sentiment": "Positive",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1127142169909841920,
@@ -3409,7 +3409,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "Network",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1127440771655847937,
@@ -3442,12 +3442,12 @@
             {
                 "sentiment": "Negative",
                 "aspect": "Calls",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             },
             {
                 "sentiment": "Negative",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1127606458198188032,
@@ -3606,7 +3606,7 @@
             {
                 "sentiment": "Positive",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1128591890146836480,
@@ -3639,7 +3639,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "CustomerService",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1128606135173427200,
@@ -3666,7 +3666,7 @@
             {
                 "sentiment": "Positive",
                 "aspect": "General",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1128900230613803008,
@@ -3748,7 +3748,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1129307897945612288,
@@ -3759,7 +3759,7 @@
             {
                 "sentiment": "Positive",
                 "aspect": "General",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1129344497890947075,
@@ -3803,7 +3803,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1129600258646917120,
@@ -3814,7 +3814,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "General",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1129625671754551296,
@@ -4176,7 +4176,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1132698176555761666,
@@ -4297,7 +4297,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1134076029885198336,
@@ -4330,7 +4330,7 @@
             {
                 "sentiment": "Positive",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1134380764915798016,
@@ -4352,7 +4352,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "General",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1134422353679671296,
@@ -4396,7 +4396,7 @@
             {
                 "sentiment": "Positive",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1135417893309562881,
@@ -4418,7 +4418,7 @@
             {
                 "sentiment": "Positive",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1135543186712137728,
@@ -4730,7 +4730,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "CustomerService",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1140253788026130433,
@@ -5010,7 +5010,7 @@
             {
                 "sentiment": "Positive",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             },
             {
                 "sentiment": "Negative",
@@ -5102,7 +5102,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1143879128015343616,
@@ -5113,7 +5113,7 @@
             {
                 "sentiment": "Positive",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1143885699915161600,
@@ -5206,7 +5206,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1145373723429605376,
@@ -5239,7 +5239,7 @@
             {
                 "sentiment": "Positive",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1146027401090125824,
@@ -5305,7 +5305,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1146289244719239170,
@@ -5459,7 +5459,7 @@
             {
                 "sentiment": "Positive",
                 "aspect": "General",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1147244720311193600,
@@ -5492,7 +5492,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1147441236581613569,
@@ -5706,7 +5706,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "CustomerService",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1149013137296941056,
@@ -5826,7 +5826,7 @@
             {
                 "sentiment": "Positive",
                 "aspect": "General",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1151053524496723969,
@@ -5848,7 +5848,7 @@
             {
                 "sentiment": "Positive",
                 "aspect": "Network",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1151178608863567873,
@@ -5897,7 +5897,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "Network",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1151516535921487874,
@@ -5963,7 +5963,7 @@
             {
                 "sentiment": "Positive",
                 "aspect": "CustomerService",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1151940959552376833,
@@ -6271,7 +6271,7 @@
             {
                 "sentiment": "Positive",
                 "aspect": "Network",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1166962445014974465,
@@ -6337,7 +6337,7 @@
             {
                 "sentiment": "Positive",
                 "aspect": "General",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1167336434669424640,
@@ -6348,7 +6348,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "CustomerService",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1167363402077036544,
@@ -6381,7 +6381,7 @@
             {
                 "sentiment": "Negative",
                 "aspect": "Data",
-                "target_entity": "Africel"
+                "target_entity": "mtn"
             }
         ],
         "id": 1167673290669920261,
