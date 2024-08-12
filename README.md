@@ -32,10 +32,10 @@ The table below summarizes the results achieved using various machine learning a
 | **BERT**         | **0.748**           | **0.791**     | **0.963**      | 0.937                  | **0.961**         |
 
 ## Running the Models
-You can run the models by accessing the respective Jupyter notebooks provided in the [Code](https://github.com/davidkabiito/Sentitel/tree/master/Code) directory.
+You can run the models by accessing the respective Jupyter notebooks provided in the [Scripts]([https://github.com/davidkabiito/Sentitel/tree/master/Code](https://github.com/AliAmini93/TelecomSent/tree/main/Scripts)) directory.
 
-- **Random Forest with TFIDF**: [Run Notebook](https://github.com/davidkabiito/Sentitel/blob/master/Code/random_forest/tfidf/T-ABSA_random_forest_tfidf_model.ipynb)
-- **Random Forest with Word2Vec**: [Run Notebook](https://github.com/davidkabiito/Sentitel/blob/master/Code/random_forest/word2vec/T-ABSA_random_forest_word2vec_model.ipynb)
+- **Random Forest with TFIDF**: [Run Notebook]([https://github.com/davidkabiito/Sentitel/blob/master/Code/random_forest/tfidf/T-ABSA_random_forest_tfidf_model.ipynb](https://github.com/AliAmini93/TelecomSent/tree/main/Scripts/random_forest/tfidf))
+- **Random Forest with Word2Vec**: [Run Notebook]([https://github.com/davidkabiito/Sentitel/blob/master/Code/random_forest/word2vec/T-ABSA_random_forest_word2vec_model.ipynb](https://github.com/AliAmini93/TelecomSent/tree/main/Scripts/random_forest/word2vec))
 - **Logistic Regression with TFIDF**: [Run Notebook](https://github.com/davidkabiito/Sentitel/blob/master/Code/LR/tfidf/T-ABSA_LR_tfidf_model.ipynb)
 - **Logistic Regression with Word2Vec**: [Run Notebook](https://github.com/davidkabiito/Sentitel/blob/master/Code/LR/word2vec/T-ABSA_LR_word2vec_model.ipynb)
 - **BERT Implementation**: [Run Notebook](https://github.com/davidkabiito/Sentitel/blob/master/Code/BERT/BERT_SentiTel.ipynb)
